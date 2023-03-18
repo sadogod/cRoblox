@@ -55,4 +55,4 @@ Wallhack: Duvarların arkasındaki nesneleri görmeyi sağlar.
 Aimbot: Düşmanlara otomatik olarak nişan alır.
 Speed Hack: Karakterinizin hareket hızını arttırır.
 Fly Hack: Karakterinizin uçmasını sağlar.
-Teleport: Belirli bir konuma anında ışınlanmanızı sağlar.
+Teleport: Belirli bir konuma anında ışınlanmanızı sağlar. 
